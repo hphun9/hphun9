@@ -11,6 +11,17 @@
 
 ---
 
+### 📜 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/385ad763-174f-4542-b59b-3acaf132a5ab/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2e5cbb51-2df9-420f-8d9c-7c1c39341c7a/image.png" alt="Google Cloud Professional Cloud Architect" height="100"/>
+  </a>
+</p>
+
+- 🏅 [Google Cloud Professional Cloud Architect Certification](https://www.credly.com/badges/385ad763-174f-4542-b59b-3acaf132a5ab/public_url)
+---
+
 ### 🧠 About Me
 - 🔭 I’m currently working on **AI-powered DevOps toolings**
 - 🌱 Learning **MLOps**, **LLM RAG**, and **AR glasses app dev**
