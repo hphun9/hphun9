@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/713ecbe1-da2b-4235-8458-b0bdb57ccafc)<h1 align="center">Hi there 👋, I'm Hoàng Phụng</h1>
+<h1 align="center">Hi there 👋, I'm Hoàng Phụng</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=DevOps+%7C+Kubernetes+%7C+AI+Infra;Lover+of+Automation+%26+Open+Source;I+build+infra+so+you+don't+have+to" alt="Typing SVG" />
