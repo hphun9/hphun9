@@ -3,14 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=DevOps+%7C+Kubernetes+%7C+AI+Infra;Lover+of+Automation+%26+Open+Source;I+build+infra+so+you+don't+have+to" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hphun9&theme=dracula&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hphun9&theme=dracula&no-frame=true&column=4" />
-</p>
 
 <p align="center">
   <img height="197" src="https://github-readme-stats-bqhz.vercel.app/api?username=hphun9&show_icons=true&hide_border=true&theme=dracula&count_private=true">
   <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hphun9&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=hphun9&theme=dracula&no-frame=true&column=4" />
 </p>
 
 ---
