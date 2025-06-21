@@ -12,15 +12,8 @@
 ---
 
 ### 📜 Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/385ad763-174f-4542-b59b-3acaf132a5ab/public_url" target="_blank">
-   ![image](https://github.com/user-attachments/assets/f79ed3d1-8399-4d5c-b014-ca3a399ece50)
-
-  </a>
-</p>
-
 - 🏅 [Google Cloud Professional Cloud Architect Certification](https://www.credly.com/badges/385ad763-174f-4542-b59b-3acaf132a5ab/public_url)
+- 🏅 [Associate Cloud Engineer Certification](https://www.credly.com/badges/9f1c2476-0e21-4549-be26-6ac6b60e06c2/public_url)
 ---
 
 ### 🧠 About Me
