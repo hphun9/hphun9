@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hoàng Phụng</h1>
+![image](https://github.com/user-attachments/assets/713ecbe1-da2b-4235-8458-b0bdb57ccafc)<h1 align="center">Hi there 👋, I'm Hoàng Phụng</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=DevOps+%7C+Kubernetes+%7C+AI+Infra;Lover+of+Automation+%26+Open+Source;I+build+infra+so+you+don't+have+to" alt="Typing SVG" />
@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/385ad763-174f-4542-b59b-3acaf132a5ab/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/2e5cbb51-2df9-420f-8d9c-7c1c39341c7a/image.png" alt="Google Cloud Professional Cloud Architect" height="100"/>
+   ![image](https://github.com/user-attachments/assets/f79ed3d1-8399-4d5c-b014-ca3a399ece50)
+
   </a>
 </p>
 
