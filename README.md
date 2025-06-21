@@ -29,7 +29,8 @@
 <p align="center">
   <a href="https://github.com/hphun9"><img src="https://img.shields.io/github/followers/hphun9?label=Follow&style=social" /></a>
   <a href="https://linkedin.com/in/hphun9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hphun9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://huggingface.co/hphun9"><img src="https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-orange?style=flat&logo=huggingface&logoColor=white" /></a>
 </p>
 
 ---
