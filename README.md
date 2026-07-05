@@ -37,13 +37,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<!-- 2 card duoi can ban self-host github-readme-stats-bqhz co PAT_1 (add trong Vercel + redeploy). -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats-bqhz.vercel.app/api?username=hphun9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=DC2626&icon_color=EF4444&text_color=1F2937&bg_color=FFFFFF" alt="stats" />
-  <img height="170" src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=hphun9&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&langs_count=10&title_color=DC2626&text_color=1F2937&bg_color=FFFFFF" alt="top langs" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hphun9&hide_border=true&background=FFFFFF&stroke=EBEDF0&ring=DC2626&fire=DC2626&currStreakNum=1F2937&sideNums=1F2937&currStreakLabel=DC2626&sideLabels=6B7280&dates=9CA3AF" alt="GitHub streak" />
 </p>
