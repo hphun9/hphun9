@@ -6,11 +6,6 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-bqhz.vercel.app/api?username=hphun9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" alt="Aether's GitHub stats" />
-  <img height="180" src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=hphun9&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&langs_count=10&theme=dracula" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=hphun9&theme=dracula&hide_border=true" alt="GitHub streak" />
 </p>
 
