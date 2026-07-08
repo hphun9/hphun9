@@ -37,10 +37,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hphun9&hide_border=true&background=FFFFFF&stroke=EBEDF0&ring=DC2626&fire=DC2626&currStreakNum=1F2937&sideNums=1F2937&currStreakLabel=DC2626&sideLabels=6B7280&dates=9CA3AF" alt="GitHub streak" />
-</p>
-
 <!-- ===== ACTIVITY GRAPH ===== -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hphun9&bg_color=FFFFFF&color=DC2626&line=DC2626&point=1F2937&area=true&area_color=FCA5A5&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
